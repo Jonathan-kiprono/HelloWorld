@@ -112,7 +112,7 @@ I would like to thank Microverse for this amazing exercise.
 
 ## 📝 License
 
-This project is [MIT](https://github.com/ntimanu/portfolio-project/blob/htmlcssbranch/LICENCE) licensed.
+This project is [MIT](https://github.com/jonathan-kiprono/HelloWorld/blob/htmlcssbranch/LICENCE) licensed.
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -218,7 +218,6 @@ I would like to thank Microverse for this amazing exercise.
 
 ## 📝 License
 
-This project is [MIT](https://github.com/ntimanu/portfolio-project/blob/htmlcssbranch/LICENCE) licensed.
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -273,7 +272,7 @@ Example commands:
 
 sh
   cd portfolio-project
-  git clone https://github.com/ntimanu/portfolio-project
+  git clone https://github.com/Jonathan-kiprono/HelloWorld
 
 
 ### Install
