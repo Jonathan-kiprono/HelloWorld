@@ -1,330 +1,187 @@
-# HelloWorld
-# Portfolio
+# Mobile-project
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-# 📖 [Portfolio: setup and mobile first]
+<!-- PROJECT DESCRIPTION -->
 
-*[Portfolio: setup and mobile first]* This is a project to display the mobile view of a portfolio.
+# 📖 Hello Microverse <a name="about-project"></a>
 
-## 🛠 Built With
+> My project is a simple portfolio setup.
 
-### Tech Stack
+**Mobile project setup** is a project 
 
-HTML
-CSS
-JS
-Git/GitHub
-node.js
-Boostrap 5
+## 🛠 Built With <a name="built-with"></a>
 
-### Key Features
+### Tech Stack <a name="tech-stack"></a>
 
-- *[A webpage that gives you all the information of the owner]*
 
-## 🚀 Live Demo
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>html</li>
+    <li>css</li>
+  </ul>
+</details>
 
-- [Comming Soon]
+<!-- Features -->
 
-## 💻 Getting Started
+### Key Features <a name="key-features"></a>
 
-When you click on the page, the browser shows you the information of the owner.
+- **impressive UI**
+- **user friendly**
+- **great UX**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Developers can use linters to check for errors and bugs. 
 
 ### Prerequisites
 
-Clone this repository to your desired folder and open html file.
+In order to run this project you need:
+
+
+Example command:
+
+```sh
+ install vs code or any other text editor.
+```
+ 
 
 ### Setup
 
 Clone this repository to your desired folder:
+
+
 Example commands:
 
-sh
-  cd portfolio-project
+```sh
+  cd my-folder
+  git clone git@github.com:Jonathan-kiprono/Portfolio.git
 
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-sh
-  cd Portfolio
-git clone git@Desktop/folder/portfolio
 
---->
+Example command:
+
+```sh
+  node.js V16 and above
+```
+
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
+
 Example command:
-sh
-  open live server
 
---->
-
-## 👥 Authors
-
-👤 *Jonathan Kiprono*
-- GitHub:(https://github.com/Jonathan-kiprono)
-- LinkedIn: [LinkedIn][(https://www.linkedin.com/in/jonathan-kiprono-8858a9193/overlay/contact-info/)]
-
-## 🔭 Future Features
-
-- [ ] *[Add more forms]*
+```sh
+  use git bash to open in Vs code
+```
 
 
+### Run tests
 
-## 🔭 Future Features
+To run tests, run the following command:
 
-- [ ] *[Add more forms]*
-- [ ] *[Add more pages with information]*
-- [ ] *[Add some Javascript]*
 
-## 🤝 Contributing
+Example command:
+
+```sh
+Run "npx stylelint "**/*.{css,scss}" --fix " to fix linters 
+```
+
+
+### Deployment
+
+You can deploy this project using:
+
+
+Example:
+
+```sh
+No deployments required
+```
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 👥 Authors <a name="Jonathan"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Author1**
+
+- GitHub: https://github.com/Jonathan-kiprono
+- LinkedIn: linkedin.com/in/jonathan-kiprono-8858a9193
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **add linters for different languages**
+- [ ] **create more flexible CSS**
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## ⭐️ Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-If you like this project feel free to share with your friends.
+<!-- SUPPORT -->
 
-## 🙏 Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-I would like to thank Microverse for this amazing exercise.
+> Follow me on my github if you like this project...
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This project is [MIT](https://github.com/jonathan-kiprono/HelloWorld/blob/htmlcssbranch/LICENCE) licensed.
-# 📗 Table of Contents
+<!-- ACKNOWLEDGEMENTS -->
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-# 📖 [Portfolio: setup and mobile first]
+I would like to thank Microverse as well as Duane  David
 
-*[Portfolio: setup and mobile first]* is a simple project that show a page of a portfolio that discribe the work, experience and contacts of the portfolio owner.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🛠 Built With
 
-### Tech Stack
-HTML
-CSS
-JS
-Git/GitHub
-node.js
-Boostrap 5
 
-### Key Features
 
-- *[A webpage that gives you all the information of the owner]*
+## 📝 License <a name="license"></a>
 
-## 🚀 Live Demo
+This project is [MIT](LICENSE.md) licensed.
 
-- [Comming Soon]
-
-## 💻 Getting Started
-
-When you click on the page, the browser shows you the information of the owner.
-
-### Prerequisites
-
-Clone this repository to your desired folder and open html file.
-
-### Setup
-
-Clone this repository to your desired folder:
-Example commands:
-
-sh
-  cd portfolio
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-sh
-  cd potfolio
-  npm install
-
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-sh
-  open live server
-
---->
-
-## 👥 Authors
-
-👤 *Jonathan Kiorono*
-
-- GitHub: (https://github.com/Jonathan-kiprono)
-- LinkedIn: [LinkedIn][(https://www.linkedin.com/in/jonathan-kiprono-8858a9193/overlay/contact-info/)]
-
-## 🔭 Future Features
-
-- [ ] *[Add more forms]*
-- [ ] *[Add more pages with information]*
-- [ ] *[Add some Javascript]*
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## ⭐️ Show your support
-
-If you like this project feel free to share with your friends.
-
-## 🙏 Acknowledgments
-
-I would like to thank Microverse for this amazing exercise.
-
-## 📝 License
-
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-
-# 📖 [Portfolio: setup and mobile first]
-
-*[Portfolio: setup and mobile first]* is a simple project that show a page of a portfolio that discribe the work, experience and contacts of the portfolio owner.
-
-## 🛠 Built With
-
-### Tech Stack
-
-Tech Stack
-HTML
-CSS
-JS
-Git/GitHub
-node.js
-Boostrap 5
-
-### Key Features
-
-- *[A webpage that gives you all the information of the owner]*
-
-## 🚀 Live Demo
-
-- [Comming Soon]
-
-## 💻 Getting Started
-
-When you click on the page, the browser shows you the information of the owner.
-
-### Prerequisites
-
-Clone this repository to your desired folder and open html file.
-
-### Setup
-
-Clone this repository to your desired folder:
-Example commands:
-
-sh
-  cd portfolio-project
-  git clone https://github.com/Jonathan-kiprono/HelloWorld
-
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-sh
-  cd portfolio
-  npm install
-
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-sh
-  open live server
-
---->
-
-## 👥 Authors
-
-👤 *Jonathan Kiprono*
-
-- GitHub: (https://github.com/Jonathan-kiprono)
-- LinkedIn:[https://www.linkedin.com/in/jonathan-kiprono-8858a9193/overlay/contact-info/]
-
-## 🔭 Future Features
-
-- [ ] *[Add more forms]*
-- [ ] *[Add more pages with information]*
-- [ ] *[Add some Javascript]*
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## ⭐️ Show your support
-
-If you like this project feel free to share with your friends.
-
-## 🙏 Acknowledgments
-
-I would like to thank Microverse for this amazing exercise.
-
-## 📝 License
-
-This project is [MIT] licensed.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
