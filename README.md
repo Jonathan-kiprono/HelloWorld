@@ -1,4 +1,3 @@
-# Mobile-project
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -27,7 +26,7 @@
 
 > My project is a simple portfolio setup.
 
-**Mobile project setup** is a project 
+**Hello World** is a project 
 
 ## 🛠 Built With <a name="built-with"></a>
 
