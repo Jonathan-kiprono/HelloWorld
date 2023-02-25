@@ -24,7 +24,7 @@
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-> My project is a simple portfolio setup.
+> My project is a simple Hello world
 
 **Hello World** is a project 
 
